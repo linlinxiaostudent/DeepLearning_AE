@@ -1,0 +1,4 @@
+<0,0,ok,furniture,-1000000000,unknown,unemployed,-10000,female_single,none,0,car,-293,none,own,-1000,skilled,-185,yes,no,good
+<0,6,critical,television,1169,unknown,>=7,4,male_single,none,4,real_estate,67,none,own,2,skilled,1,yes,yes,good
+<200,48,ok_til_now,television,5951,<100,<4,2,female,none,2,real_estate,22,none,own,1,skilled,1,no,yes,bad
+none,12,critical,education,2096,<100,<7,2,male_single,none,3,real_estate,49,none,own,1,unskilled,2,no,yes,good
